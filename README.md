@@ -20,15 +20,15 @@ Here are some ideas to get you started:
 
 ## 技術経歴
 
-### JavaScript(ES6), TypeScript(3.9)
-
-- 2020/07 ~ 2021/06あたりに主にNuxt.js上で利用
-- TypeScriptを使った型安全な開発がすごく好き
-
 ### Ruby(主に2.7.x)
 
 - 2020/07 ~ 2023/07あたりに主にHanami上で利用
 - Ruby on Railsは個人開発と業務で数ヶ月利用した程度
+
+### JavaScript(ES6), TypeScript(3.9)
+
+- 2020/07 ~ 2021/06あたりに主にNuxt.js上で利用
+- TypeScriptは開発体験が非常に良かった
 
 ### PHP
 
@@ -66,6 +66,7 @@ Here are some ideas to get you started:
   - その場しのぎは避ける
 - 言語、フレームワークの知識より基礎知識
 - インターフェースとコメント→テスト→実装の順番で開発するのが好み
+  - [A Philosophy of Software Design](https://www.amazon.co.jp/Philosophy-Software-Design-2nd-English-ebook/dp/B09B8LFKQL/)、[テスト駆動開発](https://www.amazon.co.jp/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA-%EF%BC%AB%EF%BD%85%EF%BD%8E%EF%BD%94%EF%BC%A2%EF%BD%85%EF%BD%83%EF%BD%8B-ebook/dp/B077D2L69C/)に影響を受けてこのスタイルで開発するようになった
 
 # 職務経歴
 
