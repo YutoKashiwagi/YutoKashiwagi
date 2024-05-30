@@ -45,10 +45,6 @@ Here are some ideas to get you started:
 ## SNS
 - [GitHub](https://github.com/YutoKashiwagi)
 
-- [Twitter](https://twitter.com/kashiwakikanko)
-
-- [Qiita](https://qiita.com/kashiwamochi_ruby_rails)
-
 
 ## 大事にしている考え方
 
